@@ -6,10 +6,10 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: myapp_development
+  database: app
   pool: 5
-  username: myapp
-  password: password1
+  username: app
+  password: app
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
